@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Citation_Generator
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Citation_Generator\ here.\r\n\r\n\ @author\ (Irwin\ Frimpong)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Citation_Generator()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Citation_Generator\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=
+comment3.target=void\ run()
+comment4.params=
+comment4.target=void\ createCitation()
+comment4.text=\r\n\ Method\ to\ for\ asking\ the\ user\ for\ paramters\ needed\ for\ citation\ \r\n\r\n\ @return\ String\ MLA\ citation\ of\ a\ requested\ \r\n
+numComments=5
